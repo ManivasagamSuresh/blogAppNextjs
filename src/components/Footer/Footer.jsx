@@ -11,9 +11,11 @@ function Footer() {
         <Image src={"/logo.png"} alt='logo' width={50} height={50} className={styles.image}/>
         <h1 className={styles.logotext}>MB Blog</h1>
         </div>
-        <p className={styles.desc}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui fuga et iste expedita
+        <p className={styles.desc}>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui fuga et iste expedita
            eveniet! Consectetur obcaecati quae eligendi facere autem magnam dignissimos? Vel, 
-           aperiam laboriosam similique consequatur quibusdam pariatur repellat.</p>
+           aperiam laboriosam similique consequatur quibusdam pariatur repellat.
+           </p>
 
         <div className={styles.icons}>
         <Image src="/facebook.png" alt='facebook' width={18} height={18}/>
